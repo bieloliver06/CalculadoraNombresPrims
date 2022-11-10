@@ -1,0 +1,15 @@
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-voluntaria\bin\Debug\net6.0\activitat-voluntaria.exe
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-voluntaria\bin\Debug\net6.0\activitat-voluntaria.deps.json
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-voluntaria\bin\Debug\net6.0\activitat-voluntaria.runtimeconfig.json
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-voluntaria\bin\Debug\net6.0\activitat-voluntaria.dll
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-voluntaria\bin\Debug\net6.0\activitat-voluntaria.pdb
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-voluntaria\obj\Debug\net6.0\activitat-voluntaria.csproj.AssemblyReference.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-voluntaria\obj\Debug\net6.0\activitat-voluntaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-voluntaria\obj\Debug\net6.0\activitat-voluntaria.AssemblyInfoInputs.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-voluntaria\obj\Debug\net6.0\activitat-voluntaria.AssemblyInfo.cs
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-voluntaria\obj\Debug\net6.0\activitat-voluntaria.csproj.CoreCompileInputs.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-voluntaria\obj\Debug\net6.0\activitat-voluntaria.dll
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-voluntaria\obj\Debug\net6.0\refint\activitat-voluntaria.dll
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-voluntaria\obj\Debug\net6.0\activitat-voluntaria.pdb
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-voluntaria\obj\Debug\net6.0\activitat-voluntaria.genruntimeconfig.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-voluntaria\obj\Debug\net6.0\ref\activitat-voluntaria.dll
