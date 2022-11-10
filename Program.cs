@@ -14,7 +14,7 @@
                 {
                     try
                     {
-                        upTo = Convert.ToInt16(s_upTo);
+                        upTo = Convert.ToInt32(s_upTo);
                         break;
                     }
                     catch (System.FormatException)
