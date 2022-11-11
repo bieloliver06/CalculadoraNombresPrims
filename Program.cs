@@ -32,7 +32,7 @@
         {
             for (int i = 2; i < number; i++)
             {
-                if (number % i == 0 && i != number) return false;
+                if (number % i == 0) return false;
 
             }
             Console.WriteLine($"El nombre {number} es prim");
