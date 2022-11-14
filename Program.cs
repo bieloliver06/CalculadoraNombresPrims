@@ -23,10 +23,14 @@
                     }
                 }
             }
+            var watch = System.Diagnostics.Stopwatch.StartNew();
             for (int i = 2; i <= upTo; i++)
             {
                 IsPrime(i);
             }
+            watch.Stop();
+            var elapsedMs = watch.ElapsedMilliseconds;
+            Console.WriteLine($"{elapsedMs}ms");
         }
         static bool IsPrime(int number)
         {
